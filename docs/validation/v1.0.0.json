@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "build": "PASS",
+  "self_test": "PASS",
+  "checks": 10,
+  "rendered_frames": 3,
+  "seconds": 2.0,
+  "exe": "DiandianPet.exe",
+  "exe_sha256": "2f976edc266601bd7fb81508cd17e18a95a5aae69ed5ad03673fb904d97b3671",
+  "tested_at": "2026-10-27T02:24:39+08:00"
+}

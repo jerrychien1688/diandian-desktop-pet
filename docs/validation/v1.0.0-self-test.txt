@@ -1,0 +1,14 @@
+PASS transparent borderless window and hidden taskbar button
+LAYOUT sit window=420x360 cat=420x360 actual=420x360 pos=0,0 dpi=1.25
+PASS pose sit, transparent pixels=473297, opaque pixels=124169
+LAYOUT relax window=420x360 cat=420x360 actual=420x360 pos=0,0 dpi=1.25
+PASS pose relax, transparent pixels=482564, opaque pixels=113768
+LAYOUT sleep window=420x360 cat=420x360 actual=420x360 pos=0,0 dpi=1.25
+PASS pose sleep, transparent pixels=423260, opaque pixels=174889
+PASS screen clamp including negative-coordinate monitor
+PASS size limits and layout
+PASS breath pause
+PASS automatic pose transition
+PASS menu controls created
+PASS tray creation and cleanup
+No source photos were opened or modified by the application.
