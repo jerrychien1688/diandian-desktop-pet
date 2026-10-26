@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "date": "2026-10-25",
+  "source_originals_modified": false,
+  "assets": [
+    {
+      "pose": "sit",
+      "review_id": "P04133",
+      "filename": "IMG_8399.HEIC",
+      "source_sha256": "c1ec4b4ad2a018e5153b594729799fdc507a6fea45d6ed95947b5ae2eef5c1d6",
+      "classification": "confirmed",
+      "asset": "assets/sit.png",
+      "processing": "AI-assisted photographic cutout and reconstruction; not pixel-identical. Sprite-sheet separation and fixed-canvas packing.",
+      "animation": "procedural subtle breathing, not original video motion"
+    },
+    {
+      "pose": "relax",
+      "review_id": "P04482",
+      "filename": "IMG_0157.HEIC",
+      "source_sha256": "dd6d485ba268b710402e68cc1c17fdda7ff9d774bc6c154d730a5857018869ae",
+      "classification": "confirmed",
+      "asset": "assets/relax.png",
+      "processing": "AI-assisted photographic cutout and reconstruction; not pixel-identical. Sprite-sheet separation and fixed-canvas packing.",
+      "animation": "procedural subtle breathing, not original video motion"
+    },
+    {
+      "pose": "sleep",
+      "review_id": "P01465",
+      "filename": "IMG_3498.HEIC",
+      "source_sha256": "b986f84bae97bf4cc645148d103631a8aae3b5e5bbe68bf3de5affa2fb2cbb36",
+      "classification": "confirmed",
+      "asset": "assets/sleep.png",
+      "processing": "AI-assisted photographic cutout and reconstruction; not pixel-identical. Sprite-sheet separation and fixed-canvas packing.",
+      "animation": "procedural subtle breathing, not original video motion"
+    }
+  ]
+}

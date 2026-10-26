@@ -1,0 +1,27 @@
+# 建置產物與發行包
+*.exe
+# 完整套件保留根目錄的主程式
+!/DiandianPet.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+*.mp4
+bin/
+obj/
+dist/
+# 使用者設定與暫存檔
+Settings*.ini
+*.tmp
+*.log
+.vs/
+.vscode/
+__pycache__/
+Thumbs.db
+Desktop.ini
+# 自我測試會產生大量影格，請寫入暫存目錄
+**/demo-frames/
+**/direction-frames/
+**/new-action-frames/
+**/fresh-test/
+source/face-source/face-patch-audit.txt
